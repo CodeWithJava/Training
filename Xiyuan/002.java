@@ -20,7 +20,6 @@ public class Solution {
             p.next = new ListNode(carry%10);
             l1=l1.next;
             l2=l2.next;
-        }
         if (carry != 0)
             p.next = new ListNode(carry);
 
