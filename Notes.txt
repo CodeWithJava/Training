@@ -1,0 +1,9 @@
+command  <-cursor 放到行前， ->放到行后
+command ~ open terminal in visual studio code
+command a 全选
+command s save
+command n create new file
+command z undo
+
+git commom command
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
